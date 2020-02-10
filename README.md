@@ -8,3 +8,8 @@
 ###### _Then Put your email and password._
 
 `LinkedInBot("email@yahoo.com", "password")`
+
+
+###### you can run the script in an IDE or by :
+
+`python bot.py` or `python3 bot.py`
